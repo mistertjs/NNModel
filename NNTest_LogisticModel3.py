@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 12 05:33:53 2016
 
-@author: Administrator
+@author: Todd Schlosser
 """
 #import sys
 # the mock-0.3.1 dir contains testcase.py, testutils.py & mock.py
